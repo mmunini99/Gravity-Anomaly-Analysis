@@ -28,7 +28,7 @@ They are numbered (`Es1`, `Es2`, ... `Es15`) and are meant to be run **in order*
 
 ## Requirements
 
-- GMT installed and available on the Windows `PATH` 
+- GMT installed and available on the Windows `PATH`. You will need a time setting US based, which can be setted for Windows running the script `GMTSettingsTime.cmd`
 - Input grids placed in `input_data_COM\` (depending on location and purpose of analysis please download the grid you need from https://icgem.gfz.de/calcgrid)
 
 
