@@ -52,3 +52,5 @@ They are numbered (`Script1`, `Script2`, ... `Script15`) and are meant to be run
 > **Note:** Scripts 10–13 depend on `BG_complete_COM.grd`, which is created by script 6. Run `Script6` before any of `Script_10`, `Script11`, `Script12`, or `Script13`. Similarly, `Script13` depends on the low-pass grid created by `Script12`.
 
 ---
+
+Finally, from https://plot.cost-g.org/ it has been possible to recover the time-series data for the same location, providing a dynamical overview of the phenomena.
