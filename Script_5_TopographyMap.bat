@@ -1,4 +1,4 @@
-grd2cpt input_data_COM\topography_grd_etopo1_COM.grd -Cetopo1 -L-5000/3200 -Z  > tess_topo.cpt
+grd2cpt input_data_COM\topography_grd_etopo1_COM.grd -Cetopo1 -L1000/3000 -Z  > tess_topo.cpt
 
 gmt begin GravityAnomalyTopography
 psbasemap  -R-99.6/-98/18.7/20 -JM5i -Ba -B+t"Gravity Anomaly Topography"
