@@ -1,6 +1,6 @@
 gmt grdfilter input_data_COM\BG_complete_COM.grd ^
 -Ginput_data_COM\BG_regional.grd ^
--Fg50 -D0
+-Fg50 -D4
 
 gmt grdmath ^
 input_data_COM\BG_complete_COM.grd ^

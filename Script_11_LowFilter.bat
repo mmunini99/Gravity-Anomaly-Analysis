@@ -1,6 +1,6 @@
 gmt grdfilter input_data_COM\BG_complete_COM.grd ^
 -Ginput_data_COM\BG_lowpass.grd ^
--Fg30 -D0
+-Fg30 -D4
 
 grd2cpt input_data_COM\BG_lowpass.grd -Crainbow -Z > tess.cpt
 
